@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Золота каблучка з фіанітами",
+    "category": "Каблучки",
+    "price": 8021,
+    "material": "Золото",
+    "description": "Жіноча каблучка з червоного золота 585 проби з фіанітами. \nКількість каменів: 19, \nМаса: 0,175, \nФорма огранки: круг",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/1/8/18860-01-0-1.webp"
+  },
+  {
+    "id": 2,
+    "title": "Срібна каблучка",
+    "category": "Каблучки",
+    "price": 2593,    
+    "material": "Срібло",
+    "description": "Срібна каблучка 925 проби, вставка кварц, фіаніт, колір вставки білий, блакитний",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/1/1/1181_1_-qswb___uz10017199__-1000.webp"
+  },
+  {
+    "id": 3,
+    "title": "Золота каблучка з екодіамантом",
+    "category": "Каблучки",
+    "price": 80000,    
+    "material": "Золото",
+    "description": "Каблучка з білого золота 585 проби з екодіамантами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/5/3/53187-5-l___.webp"
+  },
+  {
+    "id": 4,
+    "title": "Золота каблучка з діамантами",
+    "category": "Каблучки",
+    "price": 27520,    
+    "material": "Золото",
+    "description": "Каблучка з червоного та білого золота 585 проби з діамантами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/8/0/800012_14_1_8007.webp"
+  },
+  {
+    "id": 5,
+    "title": "Золота каблучка з діамантами і сапфіром",
+    "category": "Каблучки",
+    "price": 25919,    
+    "material": "Золото",
+    "description": "Каблучка з червоного золота 585 проби з діамантами і сапфіром.",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/z/o/zolotoe-koltso-s-brilliantami-i-sapfirom-artikul-53600-01-1-103622.webp"
+  },
+  {
+    "id": 6,
+    "title": "Срібні сережки-підвіски",
+    "category": "Сережки",
+    "price": 3501,    
+    "material": "Срібло",
+    "description": "Сережки-підвіски зі срібла 925 проби без вставки",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/s/e/serebrjanye-sergi-podveski-82819-foto-1.webp"
+  },
+  {
+    "id": 7,
+    "title": "Золоті сережки з фіанітом",
+    "category": "Сережки",
+    "price": 12086,    
+    "material": "Золото",
+    "description": "Сережки з червоного золота 585 проби з фіанітом",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/2/2/22704_01_0_28.webp"
+  },
+  {
+    "id": 8,
+    "title": "Золоті сережки-протяжки",
+    "category": "Сережки",
+    "price": 11796,    
+    "material": "Золото",
+    "description": "Сережки з червоного золота 585 проби",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/_/1/_1-78420_01_0-_-02487-1_01_0_-uz34616510-_.webp"
+  },
+  {
+    "id": 9,
+    "title": "Золоті сережки з топазом",
+    "category": "Сережки",
+    "price": 102564,    
+    "material": "Золото",
+    "description": "Сережки-підвіски з білого золота 585 проби з топазом Swiss і фіанітами S, Tesori",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/5/4/540061-02-1-5999_1_.webp"
+  },
+  {
+    "id": 10,
+    "title": "Золоті сережки з діамантами",
+    "category": "Сережки",
+    "price": 24658,    
+    "material": "",
+    "description": "Сережки з червоного золота 585 проби класичної прямокутної форми. Вигнута вставка з діамантовим паве, оснащена надійним англійським замком.",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/5/1/51835-01-1-8032.webp"
+  },
+  {
+    "id": 11,
+    "title": "Золотий ланцюжок з алмазною гранню",
+    "category": "Ланцюжки",
+    "price": 5067,    
+    "material": "Золото",
+    "description": "Золотий ланцюжок з червоного золота 585 проби з плетінням «Сінгапур»",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/6/6/66907_3_5.webp"
+  },
+  {
+    "id": 12,
+    "title": "Срібний ланцюжок",
+    "category": "Ланцюжки",
+    "price": 2456,    
+    "material": "Срібло",
+    "description": "Ланцюжок зі срібла 925 проби без вставки",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/8/0/809p_450.webp"
+  },
+  {
+    "id": 13,
+    "title": "Каблучка з платини з діамантом",
+    "category": "Каблучки",
+    "price": 18695,    
+    "material": "Платина",
+    "description": "Каблучка з платини 950 проби з діамантом",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/5/2/52415_07_1_8011_____.webp"
+  },
+  {
+    "id": 14,
+    "title": "Золоте кольє з емаллю",
+    "category": "Кольє",
+    "price": 16488,    
+    "material": "Золото",
+    "description": "Кольє з червоного золота 585 проби з емаллю",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/6/0/60165-66024-01-0-490_.webp"
+  },
+  {
+    "id": 15,
+    "title": "Золота підвіска з фіанітами",
+    "category": "Підвіска",
+    "price": 3467,    
+    "material": "Золото",
+    "description": "Підвіска з червоного золота 585 проби з фіанітами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/z/o/zolotaja-podveska-3101017201-foto-1.webp"
+  },
+  {
+    "id": 16,
+    "title": "Золота підвіска-оберіг «Щит Сварога»",
+    "category": "Підвіска",
+    "price": 14758,    
+    "material": "Золото",
+    "description": "Підвіска з червоного золота 585 проби без вставки",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/3/1/31621-01-0_2.webp"
+  },
+  {
+    "id": 17,
+    "title": "Срібна підвіска з топазом",
+    "category": "Підвіска",
+    "price": 1578,    
+    "material": "Срібло",
+    "description": "Підвіска зі срібла 925 проби з топазом",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/k/r/krs_629-top-p_12_16043.webp"
+  },
+  {
+    "id": 18,
+    "title": "Золотий жорсткий браслет",
+    "category": "Браслет",
+    "price": 25468,    
+    "material": "Золото",
+    "description": "Жорсткий браслет з червоного золота 585 проби без вставки",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/5/-/5-12-011.webp"
+  },
+  {
+    "id": 19,
+    "title": "Золотий браслет з гранатами і фіанітами",
+    "category": "Браслет",
+    "price": 30356,    
+    "material": "Золото",
+    "description": "Браслет з червоного золота 585 проби з гранатами і фіанітами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/7/0/7099-01-0-5027.webp"
+  },
+  {
+    "id": 20,
+    "title": "Кольє з платини з діамантом",
+    "category": "Кольє",
+    "price": 24875,    
+    "material": "Платина",
+    "description": "Кольє з платини 950 проби з діамантом",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/5/1/51930_66024-3_07_1_9024.webp"
+  },
+  {
+    "id": 21,
+    "title": "Золотий браслет з перлами",
+    "category": "Браслет",
+    "price": 24464,    
+    "material": "Золото",
+    "description": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/f/-/f-k-4042-b0221048.webp",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/f/-/f-k-4042-b0221048.webp"
+  },
+  {
+    "id": 22,
+    "title": "Золотий годинник кварцевий",
+    "category": "Годинники",
+    "price": 37457,    
+    "material": "Золото",
+    "description": "Корпус: 18x11, Колір циферблату: чорний, Скло: мінеральне, Ремінець: штучна шкіра, чорний",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/9/1/9104-1-1-01-0.webp"
+  },
+  {
+    "id": 23,
+    "title": "Золота брошка з фіанітами",
+    "category": "Брошки",
+    "price": 8446,    
+    "material": "Золото",
+    "description": "Брошка-шпилька з червоного золота 585 проби з фіанітами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/4/1/4155_01_0_36.webp"
+  },
+  {
+    "id": 24,
+    "title": "Золота брошка з гранатом і фіанітами",
+    "category": "Брошки",
+    "price": 20364,    
+    "material": "Золото",
+    "description": "Брошка з червоного золота 585 проби з гранатом і фіанітами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/4/0/4095-__3.webp"
+  },
+  {
+    "id": 25,
+    "title": "Золотий браслет",
+    "category": "Браслет",
+    "price": 29477,    
+    "material": "Золото",
+    "description": "Браслет із червоного золота 585 проби",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/_/4/_46070-15-4_01.webp"
+  },
+  {
+    "id": 26,
+    "title": "Золотий годинник кварцевий.",
+    "category": "Годинники",
+    "price": 84647,    
+    "material": "Золото",
+    "description": "Корпус: золото 585 проби, 37 x 37, Скло: мінеральне, Колір циферблату: чорний, Ремінець: штучна шкіра",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/9/1/9112-2-01-0.webp"
+  },
+  {
+    "id": 27,
+    "title": "Срібна підвіска з зеленим кварцом і фіанітами",
+    "category": "Підвіска",
+    "price": 4437,    
+    "material": "Срібло",
+    "description": "Підвіска зі срібла 925 проби з зеленим кварцом і фіанітами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/3/6/3681_-__1_5_1.webp"
+  },
+  {
+    "id": 28,
+    "title": "Золота брошка з фіанітами",
+    "category": "Брошки",
+    "price": 18467,    
+    "material": "Золото",
+    "description": "Брошка з червоного золота 585 проби з фіанітами.",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/z/o/zolotaya-brosh-s-fianitami-artikul-4136-01-1-491.webp"
+  },
+  {
+    "id": 29,
+    "title": "Срібне кольє з фіанітами",
+    "category": "Кольє",
+    "price": 1586,    
+    "material": "Срібло",
+    "description": "Кольє зі срібла 925 проби з фіанітами. Плетіння якірне",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/s/r/sribne-kolye-z-fianitamy-sn01821-foto-1.webp"
+  },
+  {
+    "id": 30,
+    "title": "Золоте кольє з екодіамантами",
+    "category": "Кольє",
+    "price": 100000,    
+    "material": "Золото",
+    "description": "Кольє з білого золота 585 проби з екодіамантами",
+    "image": "https://zolotiyvik.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/3/0/3037-l02111919_copy_2.webp"
+  }
+]
