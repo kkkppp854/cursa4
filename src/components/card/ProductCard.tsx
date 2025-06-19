@@ -1,15 +1,12 @@
 import './ProductCard.css';
 
-interface Props {
+interface Products {
   title: string;
-  category: string
-  material: string
   price: number;
-  description: string;
   image: string;
 }
 
-const ProductCard = ({ title, price, image }: Props) => (
+const ProductCard = ({ title, price, image }: Products) => (
   <div className="card product-card h-100 mx-0">
     <div className="product-image-wrapper">
       <img src={image} alt={title} className="card-img-top product-image" />

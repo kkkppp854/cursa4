@@ -22,10 +22,7 @@ const Catalog = () => {
                   <ProductCard
                     key={product.id}
                     title={product.title}
-                    category={product.category}
-                    material={product.material}
                     price={product.price}
-                    description={product.description}
                     image={product.image}
                   />
                 </ErrorBoundary>

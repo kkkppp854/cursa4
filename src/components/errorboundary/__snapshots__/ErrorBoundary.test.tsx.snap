@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`ErrorBoundary renders children without error 1`] = `
+<DocumentFragment>
+  <div>
+    Test content
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ErrorBoundary renders fallback UI on error 1`] = `
+<DocumentFragment>
+  <div
+    class="text-danger m-4"
+  >
+    Помилка!
+  </div>
+</DocumentFragment>
+`;
