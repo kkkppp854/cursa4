@@ -1,6 +1,8 @@
+import "./footer.css";
+
 const Footer = () => (
-  <footer style={{ padding: "1rem", background: "#f2f2f2" }}>
-    <p>&copy; 2025 Ювелірка ТОВ "Курсач"</p>
+  <footer>
+    <p className="m-0 mt-3 p-4">&copy; 2025 Diamond</p>
   </footer>
 );
 

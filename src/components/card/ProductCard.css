@@ -1,0 +1,19 @@
+.product-card {
+  width: 13.9em;
+}
+.card-title{
+  height: 10vh;}
+
+.product-card:hover .product-image {
+  transform: scale(1.1);
+}
+
+.product-image-wrapper {
+  overflow: hidden;
+}
+
+.product-image {
+  transition: transform 0.3s ease;
+  width: 100%;
+  height: auto;
+}

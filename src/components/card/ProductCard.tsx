@@ -1,3 +1,5 @@
+import './ProductCard.css';
+
 interface Props {
   title: string;
   category: string
@@ -8,11 +10,17 @@ interface Props {
 }
 
 const ProductCard = ({ title, price, image }: Props) => (
-  <div style={{ border: "1px solid #ccc", padding: "1rem", width: 200 }}>
-    <img src={image} alt={title} style={{ width: "100%" }} />
-    <h3>{title}</h3>
-    <p><strong>{price} грн</strong></p>
-    <button>Купити</button>
+  <div className="card product-card h-100 mx-0">
+    <div className="product-image-wrapper">
+      <img src={image} alt={title} className="card-img-top product-image" />
+    </div>
+    <div className="card-body">
+      <h5 className="card-title">{title}</h5>
+      <div className="d-flex justify-content-between align-items-center pt-2 mt-2">
+        <span className='fs-5'>{price} грн</span>
+        <a href="#" className="btn btn-info btn-sm px-3">Купити</a>
+      </div>
+    </div>
   </div>
 );
 

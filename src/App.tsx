@@ -1,16 +1,11 @@
 import { useState } from 'react'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Header from "./components/header/Header";
-import Footer from "./components/footer/Footer";
-import HomePage from "./containers/Catalog";
+import Catalog from "./containers/catalog/Catalog";
+import Product from "./containers/productpage/ProductPage";
 
 function App() {
   return (
-    <div>
-      <Header />
-      <HomePage />
-      <Footer />
+    <div>        
+        <Catalog />
     </div>
   );
 }

@@ -190,15 +190,6 @@
   },
   {
     "id": 22,
-    "title": "Золотий годинник кварцевий",
-    "category": "Годинники",
-    "price": 37457,    
-    "material": "Золото",
-    "description": "Корпус: 18x11, Колір циферблату: чорний, Скло: мінеральне, Ремінець: штучна шкіра, чорний",
-    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/9/1/9104-1-1-01-0.webp"
-  },
-  {
-    "id": 23,
     "title": "Золота брошка з фіанітами",
     "category": "Брошки",
     "price": 8446,    
@@ -207,7 +198,7 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/4/1/4155_01_0_36.webp"
   },
   {
-    "id": 24,
+    "id": 23,
     "title": "Золота брошка з гранатом і фіанітами",
     "category": "Брошки",
     "price": 20364,    
@@ -216,7 +207,7 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/4/0/4095-__3.webp"
   },
   {
-    "id": 25,
+    "id": 24,
     "title": "Золотий браслет",
     "category": "Браслет",
     "price": 29477,    
@@ -225,16 +216,7 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/_/4/_46070-15-4_01.webp"
   },
   {
-    "id": 26,
-    "title": "Золотий годинник кварцевий.",
-    "category": "Годинники",
-    "price": 84647,    
-    "material": "Золото",
-    "description": "Корпус: золото 585 проби, 37 x 37, Скло: мінеральне, Колір циферблату: чорний, Ремінець: штучна шкіра",
-    "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/9/1/9112-2-01-0.webp"
-  },
-  {
-    "id": 27,
+    "id": 25,
     "title": "Срібна підвіска з зеленим кварцом і фіанітами",
     "category": "Підвіска",
     "price": 4437,    
@@ -243,7 +225,7 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/3/6/3681_-__1_5_1.webp"
   },
   {
-    "id": 28,
+    "id": 26,
     "title": "Золота брошка з фіанітами",
     "category": "Брошки",
     "price": 18467,    
@@ -252,7 +234,7 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/z/o/zolotaya-brosh-s-fianitami-artikul-4136-01-1-491.webp"
   },
   {
-    "id": 29,
+    "id": 27,
     "title": "Срібне кольє з фіанітами",
     "category": "Кольє",
     "price": 1586,    
@@ -261,7 +243,7 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/750c40ae636d5d183c570c181dab806d/s/r/sribne-kolye-z-fianitamy-sn01821-foto-1.webp"
   },
   {
-    "id": 30,
+    "id": 28,
     "title": "Золоте кольє з екодіамантами",
     "category": "Кольє",
     "price": 100000,    

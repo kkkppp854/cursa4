@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
+
+img {
+    width: 100%;
+}
+
+.header-container {
+    position: absolute;
+    top: 50px;
+    left: 10%;
+}
+
+.fancy-text {
+  font-family: "Splash", cursive;
+  font-weight: 400;
+  font-size: 50pt;
+  font-style: normal;
+}
