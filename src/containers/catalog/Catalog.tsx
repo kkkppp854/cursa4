@@ -11,7 +11,7 @@ import NotFound from "../../NotFound";
 
 const Catalog = () => {
   const dispatch = useDispatch<AppDispatch>();
-  const { items, status, sortOrder } = useSelector((state: RootState) => state.products);
+  const { items, status, sortOrder, selectedCategories, selectedMaterials } = useSelector((state: RootState) => state.products);
   const { query } = useParams<{ query?: string }>();
   const navigate = useNavigate();
 
@@ -21,15 +21,22 @@ const Catalog = () => {
     }
   }, [dispatch, status]);
 
-  const filteredItems = query
-    ? items.filter((item) =>
-        item.title.toLowerCase().includes(query.toLowerCase())
-      )
-    : items;
+
+const filteredItems = items
+  .filter((item) =>
+    !query || item.title.toLowerCase().includes(query.toLowerCase())
+  )
+  .filter((item) =>
+    selectedCategories.length === 0 || selectedCategories.includes(item.category)
+  )
+  .filter((item) =>
+    selectedMaterials.length === 0 || selectedMaterials.includes(item.material)
+  );
 
  const handleProductClick = (id: number) => {
     navigate(`/product/${id}`);
   };
+  
 
   const sortedItems = [...filteredItems];
   if (sortOrder === 'asc') {
