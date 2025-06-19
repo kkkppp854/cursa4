@@ -5,10 +5,12 @@
     { "path": "./tsconfig.node.json" }
   ],
   "compilerOptions": {
+    "verbatimModuleSyntax": true,
     "jsx": "react-jsx",           
     "esModuleInterop": true,      
     "module": "ESNext",
     "target": "ESNext",
+    "forceConsistentCasingInFileNames": true,
     "moduleResolution": "Node",
     "isolatedModules": true,
     "allowSyntheticDefaultImports": true,

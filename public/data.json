@@ -1,4 +1,5 @@
-[
+{
+  "products":[
   {
     "id": 1,
     "title": "Золота каблучка з фіанітами",
@@ -252,3 +253,4 @@
     "image": "https://zolotiyvik.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/3/0/3037-l02111919_copy_2.webp"
   }
 ]
+}

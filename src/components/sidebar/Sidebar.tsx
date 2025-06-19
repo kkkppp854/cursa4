@@ -1,15 +1,31 @@
+import { useDispatch, useSelector } from 'react-redux';
+import type { RootState, AppDispatch } from '../../store/store';
+import { setSortOrder } from '../../store/catalog.store';
+import type { SortOrder } from '../../store/catalog.store';
+
+
 const SidebarFilters = () => {
+  const dispatch = useDispatch<AppDispatch>();
+  const sortOrder = useSelector((state: RootState) => state.products.sortOrder);
+
+  const handleSortChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const value = e.target.value as SortOrder;
+    dispatch(setSortOrder(value));
+  };
+
   return (
     <div className="p-3 card" style={{ minWidth: '200px' }}>
       <div className="m-4">
         <h4 className="mb-3">Сортувати</h4>
         <div className="form-check  mx-3">
-          <input type="radio" id="sortAsc" name="sort" className="form-check-input"/>
+          <input type="radio" id="sortAsc" name="sort" className="form-check-input" value="asc"
+            checked={sortOrder === 'asc'} onChange={handleSortChange}/>
           <label htmlFor="sortAsc" className="form-check-label"> Ціна (від найнижчої)
           </label>
         </div>
         <div className="form-check mx-3">
-          <input type="radio" id="sortDesc" name="sort" className="form-check-input"/>
+          <input type="radio" id="sortDesc" name="sort" className="form-check-input" value="desc"
+            checked={sortOrder === 'desc'} onChange={handleSortChange}/>
           <label htmlFor="sortDesc" className="form-check-label"> Ціна (від найвищої)
           </label>
         </div>
