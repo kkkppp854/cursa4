@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "test": "jest",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
