@@ -7,14 +7,14 @@ import App from './App';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <Provider store={store}>
-      <BrowserRouter>
+      <HashRouter>
         <App />
-      </BrowserRouter>
+      </HashRouter>
     </Provider>
   </StrictMode>
 );
